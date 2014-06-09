@@ -1,7 +1,7 @@
 {
-	"author"      : "Diogo Resende <dresende@thinkdigital.pt>",
-	"name"        : "orm",
-	"description" : "NodeJS Object-relational mapping",
+  "author"      : "Jacob Page <jacob.h.page@gmail.com>",
+  "name"        : "orm-jpage",
+  "description" : "Fork of orm for pull requests",
 	"keywords"    : [
 		"orm",
 		"odm",
@@ -14,9 +14,10 @@
 	],
 	"version"     : "2.1.15",
 	"license"     : "MIT",
-	"homepage"    : "http://dresende.github.io/node-orm2",
-	"repository"  : "http://github.com/dresende/node-orm2.git",
+  "homepage"    : "http://github.com/DullReferenceException/node-orm2",
+  "repository"  : "http://github.com/DullReferenceException/node-orm2",
 	"contributors": [
+    { "name" : "Diogo Resende",    "email" : "dresende@thinkdigital.pt" },
 		{ "name" : "Bramus Van Damme", "email" : "bramus@bram.us" },
 		{ "name" : "Lorien Gamaroff",  "email" : "lorien@gamaroff.org" },
 		{ "name" : "preslavrachev" },
